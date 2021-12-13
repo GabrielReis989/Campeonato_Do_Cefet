@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639344731 source:c:\users\reisg\desktop\engenharia\programação de computadores\projetos\campeonato do cefet\main.c
+	<stdio.h>
+	<stdlib.h>
+
